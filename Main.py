@@ -12,3 +12,7 @@ qr = qrcode.make(TextToQR)
 
 # Almacenamos la imagen del codigo QR
 qr.save("Codigo.png")
+
+# SECCION DE LINEA NO FUNCIONAL VISTA EN DOCUMENTACION ANTIGUA
+# Mostramos el codigo QR
+# qr.show("Codigo.png")
